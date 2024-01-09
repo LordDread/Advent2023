@@ -38,6 +38,5 @@ for hold_button_time in range(times):
         break
     counter += 1
 
-###### Reduces used to apply a function to a sequence of values ######
 print(number_of_ways_to_win)
 
